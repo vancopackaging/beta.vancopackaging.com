@@ -9,8 +9,8 @@ permalink:      /blog/:categories/:year/:month/:day/:title
 title:          Vanco Packaging
 tagline:        Custom Protective Packaging
 
-baseurl:        http://vancopackaging.com/
-url:            http://vancopackaging.com
+baseurl:        http://beta.vancopackaging.com/
+url:            http://beta.vancopackaging.com
 
 # Blog
 paginate_path:    "blog/page:num"
